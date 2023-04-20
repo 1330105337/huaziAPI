@@ -1,0 +1,8 @@
+com\example\huazicommon\service\InnerInterfaceInfoService.class
+com\example\huazicommon\service\InnerUserService.class
+com\example\huazicommon\model\entity\UserInterfaceInfo.class
+com\example\huazicommon\model\entity\User.class
+com\example\huazicommon\service\InnerUserInterfaceInfoService.class
+com\example\huazicommon\model\entity\InterfaceInfo.class
+com\example\huazicommon\model\vo\UserVO.class
+com\example\huazicommon\model\enums\InterfaceInfoStatusEnum.class
